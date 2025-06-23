@@ -113,7 +113,7 @@ st.markdown("""
     .section-header {
         font-size: 1.5rem;
         font-weight: 600;
-        color: #ffffff; /* putih */
+        color: #f8fafc; /* putih */
         margin-bottom: 1.5rem;
         padding-bottom: 0.5rem;
         border-bottom: 2px solid #ffffff; /* garis putih */
