@@ -23,7 +23,7 @@ import os
 
 
 
-def load_diabetes_data(filepath='../dataset/diabetes.csv'):
+def load_diabetes_data(filepath='diabetes.csv'):
     """
     Loads the diabetes dataset from a CSV file
 
