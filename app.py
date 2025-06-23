@@ -88,7 +88,7 @@ st.markdown("""
     /* Card styling */
     .metric-card {
         background: linear-gradient(145deg, #ffffff 0%, #f8fafc 100%);
-        padding: 1.5rem;
+        padding: 3.5rem;
         border-radius: 12px;
         margin: 0.5rem 0;
         box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
