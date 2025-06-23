@@ -224,7 +224,7 @@ st.markdown("""
     
     /* Gauge container */
     .gauge-container {
-        background: #ffffff;
+        background: #f8fafc;
         padding: 1.5rem;
         border-radius: 16px;
         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
@@ -234,7 +234,7 @@ st.markdown("""
     
     /* Metrics styling */
     .stMetric {
-        background: #ffffff;
+        background: #f8fafc;
         padding: 1rem;
         border-radius: 8px;
         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
@@ -255,7 +255,7 @@ st.markdown("""
     
     /* Form styling */
     .stForm {
-        background: #ffffff;
+        background: #f8fafc;
         padding: 1.5rem;
         border-radius: 12px;
         border: 1px solid #e2e8f0;
