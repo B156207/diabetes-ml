@@ -22,6 +22,8 @@ import numpy as np # for contribution to the project
 import torch # for contribution to the project
 import plotly.express as px
 import plotly.graph_objects as go
+import plotly.io as pio
+pio.templates.default = "plotly_dark"
 from model import DiabetesModel, DiabetesTrainer
 from utils import (
     load_diabetes_data, preprocess_data, save_scaler, load_scaler,
